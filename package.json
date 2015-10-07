@@ -1,5 +1,5 @@
 {
-  "name": "batman-syntax",
+  "name": "batman-syntax-jw-flavor",
   "theme": "syntax",
   "version": "1.0.0",
   "description": "A color scheme inspired by the World's Greatest Detective",
@@ -7,7 +7,7 @@
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/ifcanduela/batman-syntax",
+  "repository": "https://github.com/jwhitmarsh/batman-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=0.174.0 <2.0.0"
